@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+}
+
+#outer {
+  background-color: green;
+  border: 1px solid grey;
+  padding: 10px;
+  margin: 10px;
+}
+#mid {
+  background-color: yellow;
+  border: 1px solid grey;
+  padding: 10px;
+  margin: 10px;
+}
+#inner {
+  background-color: red;
+  border: 1px solid grey;
+  padding: 10px;
+  margin: 10px;
+}
